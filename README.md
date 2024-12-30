@@ -1,10 +1,6 @@
 # Hi, I'm Muhammad Hasnain 👋  
 
-![Profile Views](https://komarev.com/ghpvc/?username=MHasnainJafri&color=blue)  
-![GitHub Followers](https://img.shields.io/github/followers/MHasnainJafri?style=social)  
-![GitHub Stars](https://img.shields.io/github/stars/MHasnainJafri?style=social)  
 
----
 
 ## 🚀 About Me  
 
@@ -72,4 +68,11 @@ A comprehensive Laravel package providing tools for building queries, handling A
 
 **Installation**:  
 ```bash  
-composer require mhasnainjafri/apitoolkit  
+composer require mhasnainjafri/apitoolkit
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=MHasnainJafri&color=blue)  
+![GitHub Followers](https://img.shields.io/github/followers/MHasnainJafri?style=social)  
+![GitHub Stars](https://img.shields.io/github/stars/MHasnainJafri?style=social)  
+
+---
