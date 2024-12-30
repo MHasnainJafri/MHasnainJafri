@@ -1,9 +1,4 @@
 # Hi, I'm Muhammad Hasnain 👋  
-
-![Profile Views](https://komarev.com/ghpvc/?username=MHasnainJafri&color=blue)  
-![GitHub Followers](https://img.shields.io/github/followers/MHasnainJafri?style=social)  
-![GitHub Stars](https://img.shields.io/github/stars/MHasnainJafri?style=social)  
-
 ---
 
 ## 🚀 About Me  
@@ -104,5 +99,8 @@ An AI-powered multilingual chat application.
 - **LinkedIn:** [Muhammad Hasnain](https://www.linkedin.com/in/mhasnainjafri/)  
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=MHasnainJafri&color=blue)  
+![GitHub Followers](https://img.shields.io/github/followers/MHasnainJafri?style=social)  
+![GitHub Stars](https://img.shields.io/github/stars/MHasnainJafri?style=social)  
 
 💡 *Feel free to connect for collaboration, freelancing, or open-source contributions!*
