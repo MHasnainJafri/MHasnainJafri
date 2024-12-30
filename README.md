@@ -1,4 +1,9 @@
 # Hi, I'm Muhammad Hasnain 👋  
+
+![Profile Views](https://komarev.com/ghpvc/?username=MHasnainJafri&color=blue)  
+![GitHub Followers](https://img.shields.io/github/followers/MHasnainJafri?style=social)  
+![GitHub Stars](https://img.shields.io/github/stars/MHasnainJafri?style=social)  
+
 ---
 
 ## 🚀 About Me  
@@ -48,59 +53,23 @@ I'm a **Software Engineer** and a **Full Stack Laravel Developer** with over **4
 
 ---
 
-## 🎓 Education  
+## 📦 Developed Packages  
 
-- **Bachelor of Science in Software Engineering**  
-  *Arid Agriculture University, Rawalpindi*  
-  *(July 2019 - May 2023)*  
+### **[CPanel Package](https://github.com/MHasnainJafri/cpanel)**  
 
-- **Intermediate of Computer Science (ICS)**  
-  *ILM College, Bhalwal*  
-  *(Jan 2017 - June 2019)*  
+A Laravel package to manage cPanel functionality such as creating domains, subdomains, databases, users, and monitoring server memory usage.  
 
----
-
-## 🏗️ Featured Projects  
-
-### **Potolo** | Laravel, Flutter  
-A multi-service mobile app featuring restaurant booking, ride booking, grocery delivery, and more.  
-- Developed admin panels and APIs.  
-- Integrated Keycloak, Authorize.net, and stock management systems.  
-
-### **XoBlack** | Laravel, Flutter  
-A multi-service platform offering event booking, video shorts, community forums, and more.  
-- Built backend APIs and role-based admin panels.  
-- Integrated real-time notifications and seamless API interaction.  
-
-### **Minerva** | Laravel, React.js, Python  
-An AI-powered multilingual chat application.  
-- Integrated custom AI models and Google Docs functionality.  
-- Designed user-friendly interfaces with React.js.  
+**Features**:  
+- Domain and Subdomain Management  
+- Database and User Management  
+- Server Resource Monitoring  
 
 ---
 
-## 🎖️ Certifications  
+### **[APITOOLKIT](https://github.com/MHasnainJafri/APITOOLKIT)**  
 
-- **Mastering Laravel Framework and PHP** – Coursera.org  
-- **Laravel Protections** – InfoSec Institute  
-- **Legacy JavaScript Algorithms and Data Structures** – FreeCodeCamp  
+A comprehensive Laravel package providing tools for building queries, handling API responses, and managing caching efficiently.  
 
----
-
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MHasnainJafri&show_icons=true&theme=dark)  
-
----
-
-## 📫 Let's Connect!  
-
-- **GitHub:** [MHasnainJafri](https://github.com/MHasnainJafri)  
-- **LinkedIn:** [Muhammad Hasnain](https://www.linkedin.com/in/mhasnainjafri/)  
-
----
-![Profile Views](https://komarev.com/ghpvc/?username=MHasnainJafri&color=blue)  
-![GitHub Followers](https://img.shields.io/github/followers/MHasnainJafri?style=social)  
-![GitHub Stars](https://img.shields.io/github/stars/MHasnainJafri?style=social)  
-
-💡 *Feel free to connect for collaboration, freelancing, or open-source contributions!*
+**Installation**:  
+```bash  
+composer require mhasnainjafri/apitoolkit  
